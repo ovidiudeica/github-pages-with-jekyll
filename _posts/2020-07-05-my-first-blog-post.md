@@ -1,2 +1,2 @@
-#About me
+About me
 I am ...
